@@ -1,0 +1,56 @@
+hr {
+  width: 284px;
+}
+.mat-card, .employee {
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+  font-family: "Roboto", sans-serif;
+  width: 300px;
+  height: 300px;
+}
+.mat-card-title {
+  color: #0066ba;
+  font-size: 2em;
+  font-weight: bold;
+}
+h3 .employee-position {
+  font-weight: 400;
+}
+.mat-card-subtitle {
+  font-weight: 100;
+}
+.direct-report-container {
+  width: 100%;
+}
+.direct-report-title {
+  background-color: #003764;
+  padding: 5px;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.direct-report-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 7px;
+  padding: 5px;
+}
+.direct-report-row {
+  margin: 0;
+  padding: 2px;
+}
+.direct-report-row-none {
+  margin: 0 7px;
+  padding: 12px 4px;
+}
+.mat-icon-button {
+  cursor: pointer;
+  font-size: 36px;
+}
+.mat-card-content{
+  margin-left: 16px;
+  padding: 0;
+  background-color: rgba(197, 226, 250, .25);
+}
+
+
